@@ -1,1 +1,6 @@
-print("addition:"2+2)
+print("addition:", 2+2)
+print("subtraction:",5-3)
+print("multiplication:", 3*4)
+print("division:", 10/2)
+print("exponentiation:", 2**3)
+print("modulus:", 10%3)
